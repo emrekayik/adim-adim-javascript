@@ -1,2 +1,3 @@
-# Bu proje hem kendim için hemde çok değerli sizlere yardımcı olması için yazılan bir klavuzdur.
-# Henüz yeni başladığım için bazı eksiklikler olabilir. En yakın zamanda düzeltilecektir.
+# Adım adım JavaScript
+# Kendime ve sizlere klavuz olması dileğimle.
+### Henüz yeni başladığım için bazı eksiklikler olabilir. En yakın zamanda düzeltilecektir.

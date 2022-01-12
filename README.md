@@ -13,7 +13,7 @@
 <div>
 <small>
   Çevirisini yapacağım ve yorumumu katacağım şu repoya göz atmanızı öneririm.
-    <a class="header-badge" target="_blank" href="https://github.com/Asabeneh/JavaScript-for-Everyone">Javascript For Everyone</a> 
+    --<a class="header-badge" target="_blank" href="https://github.com/Asabeneh/JavaScript-for-Everyone">Javascript For Everyone</a>--
   Benim amacım Türkçe kaynak oluşturmaktır. Şimdiden teşekkürler.
 </small>
 
@@ -27,3 +27,12 @@
   - [Node.js'i Kurma](#nodejs-indir)
   - [Tarayıcı](#tarayici)
     - [Google Chrome'u Kurma](#google-chrome-indir)
+    - [Google Chrome Konsolunu Açma](#google-chrome-konsol-ac)
+    - [Tarayıcı Konsolunda Kod Yazma](#tarayici-konsolunda-kod-yazma)
+      - [Console.log](#consolelog)
+      - [Birden çok bağımsız değişken içeren Console.log](#cok-degiskenli-consolelog)
+      - [Yorum(Comment)](#yorum)
+      - [Sözdizimi(Syntax)](#sozdizimi)
+    - [Aritmetik](#aritmetik)
+  - [Kod Editörü](#kod-editor)
+    - [Visual Studio Code'u Yükleme](#visual-studio-code-indir)

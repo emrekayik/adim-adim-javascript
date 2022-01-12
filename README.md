@@ -11,10 +11,12 @@
 </div>
 
 <div>
+<small>
+  Çevirisini yapacağım ve yorumumu katacağım şu repoya göz atmanızı öneririm.
+    <a class="header-badge" target="_blank" href="https://github.com/Asabeneh/JavaScript-for-Everyone">Javascript For Everyone</a> 
+  Benim amacım Türkçe kaynak oluşturmaktır. Şimdiden teşekkürler.
+</small>
 
-<small>Çevirisini yapacağım ve yorumumu katacağım şu repoya göz atmanızı öneririm. Benim amacım Türkçe kaynak oluşturmaktır.</small>
-
-<a class="header-badge" target="_blank" href="https://github.com/Asabeneh/JavaScript-for-Everyone">Javascript For Everyone</a>
 
 </div> 
 

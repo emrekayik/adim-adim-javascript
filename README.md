@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Adım Adım JavaScript</h1>
-  <a class="header-badge" target="_blank" href="https://instagram.com/emrekayik/">
+  <a class="header-badge" target="_blank" href="https://instagram.com/emrekayik0/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=Instagram&logo=Instagram&style=social">
   </a>
 
